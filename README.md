@@ -5,15 +5,15 @@ Features
     
 Decription
 
-  Designed the Instagram Flavor News app based on Google Component Architectural MVVM Pattern
+  1, Designed the Instagram Flavor News app based on Google Component Architectural MVVM Pattern
   
-  Implemented the bottom bar & page navigation using Jetpacks navigation component
+  2, Implemented the bottom bar & page navigation using Jetpacks navigation component
   
-  Utilized 3rd party CardStackView and RecyclerView to support swipe gestures of like/unlike
+  3, Utilized 3rd party CardStackView and RecyclerView to support swipe gestures of like/unlike
   
-  Built the Room Database with Live Data & View Model to support a local cache and offline model
+  4, Built the Room Database with Live Data & View Model to support a local cache and offline model
   
-  Integrated Retrofit and Live Data to pull the latest news data from a RESTful endpoint
+  5, Integrated Retrofit and Live Data to pull the latest news data from a RESTful endpoint
   
   
   
